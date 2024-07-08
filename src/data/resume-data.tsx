@@ -130,7 +130,7 @@ export const RESUME_DATA = {
     {
       title: "ADA Markt",
       techStack: ["Next.js", "React", "Tailwind CSS", "PHP", "Web Development"],
-      description: "Developed the website for ADA Markt.",
+      description: "Developed the website for ADA Markt. The website is still under development.",
       logo: "",  // Add ADA Markt logo here
       link: {
         label: "ada-markt.de",

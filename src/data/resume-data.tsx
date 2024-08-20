@@ -1,22 +1,4 @@
-import {
-  AmbitLogo,
-  BarepapersLogo,
-  BimLogo,
-  CDGOLogo,
-  ClevertechLogo,
-  ConsultlyLogo,
-  EvercastLogo,
-  Howdy,
-  JarockiMeLogo,
-  JojoMobileLogo,
-  Minimal,
-  MobileVikingsLogo,
-  MonitoLogo,
-  NSNLogo,
-  ParabolLogo,
-  TastyCloudLogo,
-  YearProgressLogo,
-} from "@/images/logos";
+
 import { GitHubIcon, LinkedInIcon, XIcon } from "@/components/icons";
 
 export const RESUME_DATA = {
@@ -28,7 +10,7 @@ export const RESUME_DATA = {
     "Electrical and Electronics Engineer studying Information Engineering. Detail-oriented with hands-on experience in electronics from university courses and lab projects.",
   summary:
     "Graduate engineer with hands-on experience in electronics. Currently pursuing a second degree while staying updated with the latest tech advancements to apply fresh insights to my projects. Volunteering in Italy, Lithuania, and Finland has enhanced my ability to work with diverse teams, solve problems efficiently, and provided valuable teaching and counseling experience.",
-  avatarUrl: "./mert.jpeg",	
+  avatarUrl: "https://github.com/cakirmert/cakirmert.github.io/blob/gh-pages/mert.JPEG?raw=true",	
   personalWebsiteUrl: "https://www.linkedin.com/in/mert-cakir-0603481a7",
   contact: {
     email: "mert-cakir@outlook.com",
@@ -128,16 +110,6 @@ export const RESUME_DATA = {
   ],
   projects: [
     {
-      title: "ADA Markt",
-      techStack: ["Next.js", "React", "Tailwind CSS", "PHP", "Web Development"],
-      description: "Developed the website for ADA Markt. The website is still under development.",
-      logo: "",  // Add ADA Markt logo here
-      link: {
-        label: "ada-markt.de",
-        href: "https://www.ada-markt.de/test/",
-      },
-    },
-    {
       title: "Merlin Tattoo",
       techStack: ["Next.js", "React", "Tailwind CSS", "PHP", "Web Development"],
       description: "Developed the website for Merlin Tattoo.",
@@ -156,7 +128,27 @@ export const RESUME_DATA = {
         label: "carbonate-system-modelling.geo.uni-hamburg.de",
         href: "https://carbonate-system-modelling.geo.uni-hamburg.de/",
       },
-    }
+    },
+    {
+      title: "Enhanced Weathering Consulting",
+      techStack: ["Next.js", "React", "Tailwind CSS", "Web Development"],
+      description: "Developed the website for Enhanced Weathering Consulting.",
+      logo: "",  // Add local business logo here
+      link: {
+        label: "enhanced-weathering.de",
+        href: "https://enhanced-weathering.de/",
+      },
+    },
+    {
+      title: "ADA Markt",
+      techStack: ["Next.js", "React", "Tailwind CSS", "PHP", "Web Development"],
+      description: "Developed the website for ADA Markt. The website is still under development.",
+      logo: "",  // Add ADA Markt logo here
+      link: {
+        label: "ada-markt.de",
+        href: "https://www.ada-markt.de/test/",
+      },
+    },
   ],
   volunteering: [
     {

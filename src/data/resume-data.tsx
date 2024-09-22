@@ -111,7 +111,7 @@ export const RESUME_DATA = {
   projects: [
     {
       title: "Merlin Tattoo",
-      techStack: ["Next.js", "React", "Tailwind CSS", "PHP", "Web Development"],
+      techStack: ["Next.js", "React", "Tailwind CSS", "PHP"],
       description: "Developed the website for Merlin Tattoo.",
       logo: "",  // Add Merlin Tattoo logo here
       link: {
@@ -121,7 +121,7 @@ export const RESUME_DATA = {
     },
     {
       title: "Carbonate System modelling",
-      techStack: ["Apache", "HTML", "JavaScript", "Python", "Web Development"],
+      techStack: ["Apache", "HTML", "JavaScript", "Python"],
       description: "Helped develop the website.",
       logo: "",  // Add local business logo here
       link: {
@@ -131,7 +131,7 @@ export const RESUME_DATA = {
     },
     {
       title: "Enhanced Weathering Consulting",
-      techStack: ["Next.js", "React", "Tailwind CSS", "Web Development"],
+      techStack: ["Next.js", "React", "Tailwind CSS"],
       description: "Developed the website for Enhanced Weathering Consulting.",
       logo: "",  // Add local business logo here
       link: {

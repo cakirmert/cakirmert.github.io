@@ -140,13 +140,13 @@ export const RESUME_DATA = {
       },
     },
     {
-      title: "ADA Markt",
-      techStack: ["Next.js", "React", "Tailwind CSS", "PHP", "Web Development"],
-      description: "Developed the website for ADA Markt. The website is still under development.",
+      title: "Break Agency",
+      techStack: ["Next.js", "React", "Tailwind CSS",  "Web Development"],
+      description: "Developed the website for Break Agency. The website is still under development.",
       logo: "",  // Add ADA Markt logo here
       link: {
-        label: "ada-markt.de",
-        href: "https://www.ada-markt.de/test/",
+        label: "cakirmert.github.io/BreakAgency",
+        href: "https://cakirmert.github.io/BreakAgency/",
       },
     },
   ],

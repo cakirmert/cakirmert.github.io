@@ -141,7 +141,7 @@ export const RESUME_DATA = {
     },
     {
       title: "Break Agency",
-      techStack: ["Next.js", "React", "Tailwind CSS",  "Web Development"],
+      techStack: ["Next.js", "React", "Tailwind CSS"],
       description: "Developed the website for Break Agency. The website is still under development.",
       logo: "",  // Add ADA Markt logo here
       link: {

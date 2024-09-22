@@ -10,7 +10,7 @@ export const RESUME_DATA = {
     "Electrical and Electronics Engineer studying Information Engineering. Detail-oriented with hands-on experience in electronics from university courses and lab projects.",
   summary:
     "Graduate engineer with hands-on experience in electronics. Currently pursuing a second degree while staying updated with the latest tech advancements to apply fresh insights to my projects. Volunteering in Italy, Lithuania, and Finland has enhanced my ability to work with diverse teams, solve problems efficiently, and provided valuable teaching and counseling experience.",
-  avatarUrl: "https://github.com/cakirmert/cakirmert.github.io/blob/gh-pages/mert.PNG?raw=true",	
+  avatarUrl: "https://github.com/cakirmert/cakirmert.github.io/blob/gh-pages/Mert.PNG?raw=true",	
   personalWebsiteUrl: "https://www.linkedin.com/in/mert-cakir-0603481a7",
   contact: {
     email: "mert-cakir@outlook.com",

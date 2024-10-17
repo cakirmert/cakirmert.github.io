@@ -146,7 +146,7 @@ export const RESUME_DATA = {
       logo: "",  // Add ADA Markt logo here
       link: {
         label: "cakirmert.github.io/BreakAgency",
-        href: "https://cakirmert.github.io/BreakAgency/",
+        href: "https://break.agency",
       },
     },
   ],

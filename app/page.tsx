@@ -5,9 +5,7 @@ import { RESUME_DATA } from "@/data/resume-data"
 import { Section } from "@/components/section"
 import { Badge } from "@/components/ui/badge"
 import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui/card"
-import { Button } from "@/components/ui/button"
-import { Printer, ExternalLink } from "lucide-react"
-import { useRef } from "react"
+import { ExternalLink } from "lucide-react"
 
 export default function Page() {
   return (
